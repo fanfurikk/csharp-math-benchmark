@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MathTrainer.Console/MathTrainer.Console.csproj" />
+    <Project Path="src/MathTrainer.Core/MathTrainer.Core.csproj" />
+    <Project Path="src/MathTrainer.Wpf/MathTrainer.Wpf.csproj" />
+  </Folder>
+</Solution>
