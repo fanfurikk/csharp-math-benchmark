@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Библиотека классов с основной логикой приложения.
+       Не зависит ни от одного GUI-фреймворка, поэтому её можно
+       переиспользовать в Console, WinForms, WPF, MAUI, Avalonia. -->
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>MathTrainer.Core</RootNamespace>
+    <AssemblyName>MathTrainer.Core</AssemblyName>
+  </PropertyGroup>
+
+</Project>
